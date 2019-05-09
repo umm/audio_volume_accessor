@@ -1,6 +1,6 @@
 {
   "name": "@umm/audio_volume_accessor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Access audio volume of OS",
   "homepage": "https://github.com/umm/audio_volume_accessor",
   "bugs": {
